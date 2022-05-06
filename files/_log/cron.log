@@ -1,0 +1,236 @@
+2022-05-04 15:55:21 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar createinquest
+2022-05-04 15:58:57 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar watcher
+2022-05-04 16:05:43 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar ticketrecurrent
+2022-05-04 16:05:47 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 16:05:54 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:07:32 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotificationclean
+2022-05-04 16:09:49 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar temp
+2022-05-04 16:36:45 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgateerror
+2022-05-04 16:36:56 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar contract
+2022-05-04 16:39:34 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar infocom
+2022-05-04 16:39:41 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 16:40:33 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar session
+2022-05-04 16:40:36 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar graph
+2022-05-04 16:41:41 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar reservation
+2022-05-04 16:41:44 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar closeticket
+2022-05-04 16:41:50 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar alertnotclosed
+2022-05-04 16:41:58 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 16:42:32 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 16:42:35 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:42:42 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 16:42:48 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 16:44:05 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:44:12 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 16:49:49 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:50:11 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 16:51:06 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 16:52:42 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 16:53:39 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 16:53:50 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:55:16 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:55:47 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 16:56:01 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 16:56:14 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 16:56:25 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 16:56:47 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 17:00:13 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 17:00:16 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 17:00:21 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 17:00:39 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 17:02:58 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 17:16:11 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 17:16:15 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 17:16:56 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 17:17:08 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar ticketrecurrent
+2022-05-04 17:19:35 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 17:19:51 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 17:21:36 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar temp
+2022-05-04 17:36:21 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 17:36:41 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 17:36:56 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 17:37:41 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 17:51:23 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 17:55:29 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 17:59:39 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar graph
+2022-05-04 17:59:46 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar reservation
+2022-05-04 18:00:20 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 18:02:01 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 18:02:07 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 18:02:55 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 18:08:34 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 18:08:39 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 18:10:37 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 18:12:06 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 18:12:33 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 18:12:50 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 18:12:56 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 18:16:55 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 18:17:00 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 18:17:35 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar ticketrecurrent
+2022-05-04 18:17:39 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 21:03:39 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 21:04:25 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 21:05:54 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 22:55:05 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar temp
+2022-05-04 22:58:28 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 22:58:37 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 23:00:25 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar graph
+2022-05-04 23:00:30 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar reservation
+2022-05-04 23:00:59 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar ticketrecurrent
+2022-05-04 23:02:11 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:02:19 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 23:06:10 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 23:06:23 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 23:07:47 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 23:09:31 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:10:28 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 23:13:45 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:13:53 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 23:14:26 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 23:14:35 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:14:44 [@DESKTOP-1MA6DJ7]
+Interno #1: No hay nada para ejecutar
+2022-05-04 23:16:38 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:16:48 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 23:26:32 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 23:28:01 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:28:55 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 23:30:33 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 23:30:40 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 23:32:04 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:35:12 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-04 23:35:30 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:35:51 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-04 23:38:42 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-04 23:50:40 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-04 23:54:38 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-04 23:57:47 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-05 00:20:16 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-05 00:20:26 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-06 02:45:43 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar queuednotification
+2022-05-06 02:46:24 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar temp
+2022-05-06 02:59:07 [2@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar mailgate
+2022-05-06 02:59:13 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar graph
+2022-05-06 03:00:40 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar reservation
+2022-05-06 15:22:36 [2@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar ticketrecurrent
+2022-05-06 15:23:47 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar slaticket
+2022-05-06 15:23:52 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar planningrecall
+2022-05-06 16:00:37 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar olaticket
+2022-05-06 16:12:36 [@DESKTOP-1MA6DJ7]
+Interno #1: Ejecutar closeticket

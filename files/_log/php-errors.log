@@ -1,0 +1,33 @@
+[2022-05-04 15:47:17] glpiphplog.WARNING: Test logger  
+[2022-05-04 15:47:51] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:47:51] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:48:37] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:48:37] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:49:33] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:49:33] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\glpi\install\install.php at line 238
+  Backtrace :
+  install\install.php:238                            mysqli->__construct()
+  install\install.php:654                            step3()
+  
+[2022-05-04 15:52:47] glpiphplog.NOTICE: GLPIKey::getLegacyKey() in C:\xampp\htdocs\glpi\inc\glpikey.class.php line 116
+Called method is deprecated  {"user":"@DESKTOP-1MA6DJ7"} 
